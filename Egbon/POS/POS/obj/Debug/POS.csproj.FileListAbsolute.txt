@@ -1,0 +1,11 @@
+C:\Users\Aduwu\AppData\Local\Temporary Projects\POS\bin\Debug\POS.exe.config
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\bin\Debug\POS.exe
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\bin\Debug\POS.pdb
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\obj\Debug\POS.csproj.GenerateResource.Cache
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\obj\Debug\POS.exe
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\obj\Debug\POS.pdb
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\obj\Debug\POS.setupPage.resources

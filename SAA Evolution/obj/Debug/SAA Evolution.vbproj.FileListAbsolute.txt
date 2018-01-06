@@ -1,0 +1,146 @@
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\bin\Debug\SAA Evolution.exe.config
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\bin\Debug\SAA Evolution.exe
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\bin\Debug\SAA Evolution.pdb
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\bin\Debug\SAA Evolution.xml
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.vbprojResolveAssemblyReference.cache
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.brandList.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.CahngePassword.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Category.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.CategoryList.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.ChangeRole.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.chartOfAccounts.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.CustomerList.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.deliverSalesOrders.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.ItemList.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Items.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.itemsMain.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Locationlist.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.login.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Main.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.ManageUsers.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Resources.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewBank.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewBrand.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewCustomer.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewLocation.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewSalesOrder.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewUser.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewVendor.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewVendorModal.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.PuchaseInvoice.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.salesInvoice.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.SalesRep.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.SalesRepList.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.SplashScreen.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.StockBalances.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.StockTransfers.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Store.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.storeList.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.VendorList.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.ViewChartOf_Acct.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.vbproj.GenerateResource.Cache
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.exe
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.xml
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.pdb
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.test.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.StockbalancesReport.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\RdlCompile.cache
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\RdlCompile.compiled
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.AuditTrailByDatee.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.AuditTrailSalesorder.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.SalesReciept.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.rptSalesReciept.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\bin\Debug\SAA Evolution.exe.manifest
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\bin\Debug\SAA Evolution.application
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.AuditTrailSalesDelivery.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.exe.manifest
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.application
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\bin\Debug\SAA Evolution.exe.config
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.exe
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.xml
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.pdb
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\bin\Debug\SAA Evolution.exe.manifest
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\bin\Debug\SAA Evolution.application
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\bin\Debug\SAA Evolution.exe
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\bin\Debug\SAA Evolution.pdb
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\bin\Debug\SAA Evolution.xml
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.vbprojResolveAssemblyReference.cache
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.AuditTrailByDatee.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.AuditTrailSalesorder.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.brandList.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.CahngePassword.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Category.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.CategoryList.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.ChangeRole.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.chartOfAccounts.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.AuditTrailSalesDelivery.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.MyMainMdi.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.rptSalesReciept.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.SalesReciept.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.CustomerList.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.deliverSalesOrders.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Form1.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.ItemList.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Items.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.itemsMain.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Locationlist.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.login.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Main.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.ManageUsers.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Resources.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewBank.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewBrand.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewCustomer.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewLocation.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewPurchaseOrder.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewSalesOrder.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewUser.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewVendor.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewVendorModal.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.PuchaseInvoice.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.RecievePurchaseOrders.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.salesInvoice.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.SalesInvoiceMain.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.SalesRep.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.SalesRepList.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.SplashScreen.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.StockBalances.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.StockbalancesReport.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.StockTransfers.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.Store.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.storeList.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.test.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.VendorList.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.ViewChartOf_Acct.resources
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.vbproj.GenerateResource.Cache
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\RdlCompile.cache
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\RdlCompile.compiled
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.exe.manifest
+C:\Users\HP USER\Desktop\testing\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.application
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.MyMainMdi.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.AssignFuctionsToUser.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.ChangeUserFunctions.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.CahngeNewUserPassword.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.CustomerClassification.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.classificationList.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution - Copy (37)\SAA Evolution\bin\Debug\SAA Evolution.exe.config
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution - Copy (37)\SAA Evolution\obj\Debug\SAA Evolution.exe
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution - Copy (37)\SAA Evolution\obj\Debug\SAA Evolution.xml
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution - Copy (37)\SAA Evolution\obj\Debug\SAA Evolution.pdb
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.deliverSalesOrdersBackUp.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA Evolution.exe.licenses
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.PrintSalesInvoice.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.StockTransfersMain.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.InvoicesByOrders.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewPurchaseOrder.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.PurchaseInvoice.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.RecievePurchaseOrder.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.PrintPurchaseInvoice.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.NewFirstUser.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.StockBalancesMain.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.rptAllSalesInvoices.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.rptSalesInvoiceByNumber.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.rptInvoicesBySalesOrder.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.rptsalesInvoicesByCustomerOrder.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.rptInvoicesByPurchaseOrder.resources
+C:\Users\HP USER\Desktop\SAA MAIN\SAA Evolution\SAA Evolution\obj\Debug\SAA_Evolution.rptAllPurchaseInvoice.resources

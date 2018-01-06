@@ -1,0 +1,946 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SAA Evolution
+</name>
+</assembly>
+<members>
+<member name="T:SAA_Evolution.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.addtogrid">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.audittrail">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.audittrail1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.audittrail11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.bank6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.bank66">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.bills">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.bills6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.brand">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.changepassword1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.changeroles">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.changeroles1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.chartOfAccts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.chartOfAccts6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.customer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.customer6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.deposits">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.employee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.employee6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.invoice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.invoice6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.items">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.items6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.location">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.manageUsers1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.newcustomer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.Payments">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.Payments6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.print">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.purchaseOrder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.purchaseOrder6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.purchasereturn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.purchasereturns">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.recievePayments">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.recievePayments6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.recievePaymentsm">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.recievePaymentsm6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.remove">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.removefromgrid">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.saalogo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.SalesOrder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.SalesOrder6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.salesrep">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.salesreturn">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.salesreturns">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.save">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.SaveandAdd">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.stockin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.stockin6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.stockmovement1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.stockout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.stockout6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.store1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.vendor">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.vendor6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:SAA_Evolution.My.Resources.Resources.withdrawal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesOrderSummaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.BankDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.chartActsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.generalLedgerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.PurchaseOrderSummaryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.CustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.CustomerNumberCheckDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.VendorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.PONumberCheckDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.VendorNumberCheckDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.groupNamesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.subNamesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemCategoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.allChartOfAcctDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.PurchaseOrderDetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.BrandDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.LocationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesRepStoreDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.StoreDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemTransDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.UsersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.DistinctItemTransDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemBalancesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesOrderDetailDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SONumberCheckDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesOrderSummaryCustomerDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesOrderSummarySONumberDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.BankRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.chartActsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.generalLedgerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.PurchaseOrderSummaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.CustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.CustomerNumberCheckRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.VendorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.PONumberCheckRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.VendorNumberCheckRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.groupNamesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.subNamesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemCategoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.allChartOfAcctRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.PurchaseOrderDetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.BrandRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.LocationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesRepStoreRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.StoreRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemTransRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.UsersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.DistinctItemTransRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemBalancesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesOrderDetailRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesOrderSummaryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SONumberCheckRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesOrderSummaryCustomerRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesOrderSummarySONumberRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.BankRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.chartActsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.generalLedgerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.PurchaseOrderSummaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.CustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.CustomerNumberCheckRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.VendorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.PONumberCheckRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.VendorNumberCheckRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.groupNamesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.subNamesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemCategoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.allChartOfAcctRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.PurchaseOrderDetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.BrandRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.LocationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesRepStoreRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.StoreRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemTransRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.UsersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.DistinctItemTransRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.ItemBalancesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesOrderDetailRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesOrderSummaryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SONumberCheckRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesOrderSummaryCustomerRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDataset.SalesOrderSummarySONumberRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.BankTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.chartActsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.generalLedgerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.PurchaseOrderSummaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.CustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.CustomerNumberCheckTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.VendorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.PONumberCheckTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.VendorNumberCheckTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.ItemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.groupNamesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.subNamesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.ItemCategoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.allChartOfAcctTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.PurchaseOrderDetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.BrandTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.LocationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.SalesRepStoreTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.StoreTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.ItemsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.ItemTransTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.UsersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.DistinctItemTransTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.ItemBalancesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.SalesOrderDetailTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.SalesOrderSummaryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.SONumberCheckTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.SalesOrderSummaryCustomerTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.SalesOrderSummarySONumberTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:SAA_Evolution.SAAEvoDatasetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SAA_Evolution.SAAEvoDataset,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:SAA_Evolution.SAAEvoDatasetTableAdapters.TableAdapterManager.UpdateInsertedRows(SAA_Evolution.SAAEvoDataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:SAA_Evolution.SAAEvoDatasetTableAdapters.TableAdapterManager.UpdateDeletedRows(SAA_Evolution.SAAEvoDataset,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:SAA_Evolution.SAAEvoDatasetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:SAA_Evolution.SAAEvoDatasetTableAdapters.TableAdapterManager.UpdateAll(SAA_Evolution.SAAEvoDataset)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:SAA_Evolution.SAAEvoDatasetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,8 @@
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\bin\Release\POS.exe.config
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\bin\Release\POS.exe
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\bin\Release\POS.pdb
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\obj\Release\POS.Form1.resources
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\obj\Release\POS.Properties.Resources.resources
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\obj\Release\POS.csproj.GenerateResource.Cache
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\obj\Release\POS.exe
+C:\Users\Aduwu\Desktop\Egbon\POS\POS\obj\Release\POS.pdb
